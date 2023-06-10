@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the unit of measurement for electric current?",
+        "choices": ["", "Ampere", "Volt", "Ohm", "Watt"],
+        "correct_answer": "Ampere"
+    },
+    {
+        "question": "Which scientist proposed the theory of general relativity?",
+        "choices": ["", "Albert Einstein", "Isaac Newton", "Stephen Hawking", "Niels Bohr"],
+        "correct_answer": "Albert Einstein"
+    },
+    {
+        "question": "What is the process by which plants convert sunlight into energy?",
+        "choices": ["", "Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+        "correct_answer": "Photosynthesis"
+    },
+    {
+        "question": "What is the hardest known natural material?",
+        "choices": ["", "Diamond", "Graphite", "Quartz", "Sapphire"],
+        "correct_answer": "Diamond"
+    },
+    {
+        "question": "Which subatomic particle has a positive charge?",
+        "choices": ["", "Proton", "Neutron", "Electron", "Photon"],
+        "correct_answer": "Proton"
+    },
+    {
+        "question": "What is the formula for calculating force?",
+        "choices": ["", "Force = Mass × Acceleration", "Force = Mass ÷ Acceleration", "Force = Mass + Acceleration", "Force = Mass - Acceleration"],
+        "correct_answer": "Force = Mass × Acceleration"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "choices": ["", "Skin", "Heart", "Brain", "Liver"],
+        "correct_answer": "Skin"
+    },
+    {
+        "question": "Which gas makes up the majority of Earth's atmosphere?",
+        "choices": ["", "Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+        "correct_answer": "Nitrogen"
+    },
+    {
+        "question": "What is the SI unit of pressure?",
+        "choices": ["", "Pascal", "Newton", "Watt", "Joule"],
+        "correct_answer": "Pascal"
+    },
+    {
+        "question": "What is the study of fossils called?",
+        "choices": ["", "Paleontology", "Archaeology", "Anthropology", "Geology"],
+        "correct_answer": "Paleontology"
+    }
+    ]

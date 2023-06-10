@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the square root of 144?",
+        "choices": [
+            "",
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "correct_answer": "12"
+    },
+    {
+        "question": "Simplify the expression: 4(3 + 5) - 2(6 - 2)",
+        "choices": [
+            "",
+            "10",
+            "20",
+            "30",
+            "40"
+        ],
+        "correct_answer": "30"
+    },
+    {
+        "question": "What is the value of pi (\u00cf\u20ac) correct to two decimal places?",
+        "choices": [
+            "",
+            "3.14",
+            "3.16",
+            "3.18",
+            "3.20"
+        ],
+        "correct_answer": "3.14"
+    },
+    {
+        "question": "What is the value of 5! (5 factorial)?",
+        "choices": [
+            "",
+            "20",
+            "60",
+            "120",
+            "720"
+        ],
+        "correct_answer": "120"
+    },
+    {
+        "question": "What is the sum of angles in a triangle?",
+        "choices": [
+            "",
+            "90 degrees",
+            "180 degrees",
+            "270 degrees",
+            "360 degrees"
+        ],
+        "correct_answer": "180 degrees"
+    },
+    {
+        "question": "What is the value of log10(100)?",
+        "choices": [
+            "",
+            "1",
+            "2",
+            "10",
+            "100"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "If a = 5 and b = 3, what is the value of a^2 + b^2?",
+        "choices": [
+            "",
+            "10",
+            "18",
+            "24",
+            "34"
+        ],
+        "correct_answer": "34"
+    },
+    {
+        "question": "What is the derivative of x^2 with respect to x?",
+        "choices": [
+            "",
+            "2x",
+            "x^2",
+            "1",
+            "0"
+        ],
+        "correct_answer": "2x"
+    },
+    {
+        "question": "What is the value of sin(90 degrees)?",
+        "choices": [
+            "",
+            "0",
+            "1",
+            "0.5",
+            "Undefined"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "What is the value of 2^5?",
+        "choices": [
+            "",
+            "4",
+            "8",
+            "16",
+            "32"
+        ],
+        "correct_answer": "32"
+    }
+]
